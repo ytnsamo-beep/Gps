@@ -1,0 +1,10 @@
+{
+  "name": "Remix Convertisseur GPS en Lambert 93 \u0026 Orientation Google Maps",
+  "description": "Convertisseur de coordonnées GPS (WGS84) en Lambert 93 (EPSG:2154) et inversement, avec repérage sur carte, boussole d\u0027orientation et guidage Google Maps.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
